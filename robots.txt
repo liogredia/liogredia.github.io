@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://liogredia.github.io/sitemap
+Sitemap: https://liogredia.github.io/app/sitemap
+Sitemap: https://liogredia.github.io/assets/sitemap
+Sitemap: https://liogredia.github.io/css/sitemap
+Sitemap: https://liogredia.github.io/includes/sitemap
+Sitemap: https://liogredia.github.io/item/sitemap
+Sitemap: https://liogredia.github.io/src/sitemap
